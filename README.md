@@ -92,7 +92,7 @@ Since the username and password are valid, the server will return the user infor
 ```json
 {
   "id": 1,
-  "username": "visitante",
+  "username": "carlos",
   "email": "carlostuna015@mail.com",
   "firstName": "User",
   "lastName": "Test",
